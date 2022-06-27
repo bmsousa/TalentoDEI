@@ -18,8 +18,11 @@ All code snipets are devoid of credentials and IPs, which should be added accord
 # Commands to be provided to the robot
 
 FORWARD: --> Move Forward
+
 LEFT --> move LEFT
+
 RIGHT --> move RIGHT
+
 STOP --> STOP the robot
 
 
